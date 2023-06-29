@@ -24,3 +24,7 @@ Instructions:
 Launch the game.    Use the mouse to select a cell and input a number using the keyboard.
 Continue filling in numbers until the puzzle is complete or use the solve feature to automatically fill in the remaining cells.
 Use the solution checker to verify your progress.
+![image1](https://github.com/shankhub01/sudoku-app/assets/56106924/649a935a-ed36-4082-9415-cbe488b86625)
+![image2](https://github.com/shankhub01/sudoku-app/assets/56106924/48af65a1-15b9-4158-9507-c0b5a031a004)
+
+
